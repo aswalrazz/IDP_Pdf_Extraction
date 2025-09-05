@@ -164,7 +164,7 @@ if uploaded_file is not None:
 st.markdown(
     f"""
     <hr>
-    <p style="text-align: center; color: {theme_color};">Developed with ❤️ using DataSparkLabs.</p>
+    <p style="text-align: center; color: {theme_color};">Developed with ❤️ VJ </p>
     """,
     unsafe_allow_html=True,
 )
